@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uzemoise.github.io/GBU/sitemap_index.txt
+Sitemap: https://uzemoise.github.io/hpK/sitemap_index.txt
+Sitemap: https://uzemoise.github.io/iau/sitemap_index.txt
+Sitemap: https://uzemoise.github.io/xSj/sitemap_index.txt
